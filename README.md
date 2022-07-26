@@ -1,3 +1,5 @@
 # Basic C exercise 
   
-  Exercise soures from TDTU :>
+  Exercise sourecs from TDTU :>
+# All sourec will be added to this repository
+  ...?
