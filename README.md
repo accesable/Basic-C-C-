@@ -1,5 +1,5 @@
 # Basic C exercise 
   
   Exercise sourecs from TDTU :>
-# All sourec will be added to this repository
+# All soure Code will be added to this repository
   ...?
